@@ -70,7 +70,7 @@ public class Client {
 
 
 
-    // 接收消息的方法。
+    // 接收消息的方法。kk
     public static void getMessage() throws Exception {
         InputStream inputStream = socket.getInputStream();
         InputStreamReader isr = new InputStreamReader(inputStream);
